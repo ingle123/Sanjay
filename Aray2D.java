@@ -12,7 +12,8 @@ public class Aray2D {
 		for(int j = 0;j<size;j++) {
 			System.out.println(arr[i][j]);
 		}
-	
+	System.out.println(arr[i][j]);
+
 	}
 		
 
